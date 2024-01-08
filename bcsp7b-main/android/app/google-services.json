@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851459533770",
+    "project_id": "bcsp7b",
+    "storage_bucket": "bcsp7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851459533770:android:88932b10c3252af0827d33",
+        "android_client_info": {
+          "package_name": "com.example.flutter_bcsp7b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc91DKuqSKC7zEXsq1hVwtQ4TWC2BF17Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
